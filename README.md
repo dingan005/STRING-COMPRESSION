@@ -1,2 +1,2 @@
 # STRING-COMPRESSION
-String Compression using python
+* String Compression using python
